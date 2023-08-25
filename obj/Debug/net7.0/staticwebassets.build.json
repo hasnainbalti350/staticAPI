@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BhxcnbcLd2XjHVi/n01wi+JQWSbYCKCzbf85zHPf8fc=",
+  "Source": "staticWebApi",
+  "BasePath": "_content/staticWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
